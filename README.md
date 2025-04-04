@@ -1,7 +1,9 @@
 # 🚨 POC : Exfiltration de Données via un Chatbot LLM "Llama3.1"
 
 **Date** : 2025-04-02  
+
 **Auteur** : Famfa Ilyasse 
+
 **Statut** : ✔️ Vulnérabilité Confirmée  
 
 ---
