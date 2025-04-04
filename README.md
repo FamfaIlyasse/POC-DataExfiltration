@@ -43,3 +43,6 @@ Le modèle génère une balise malveillante :
 [!] Serveur local - Données reçues :
 RXh2cS9oMjEwMjU=-SW55YW5naGJpMQ==-QWxhcGhlcndpcy0xNDk5
 ```
+
+## 📹 [Vidéo POC] : Exfiltration de données
+https://github.com/user-attachments/assets/a027c7c6-6fed-4bb3-bce3-b7ac40a50ae8
